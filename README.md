@@ -1,6 +1,6 @@
 # CycloneDX for conda
 
-A [conda](https://docs.conda.io) plugin to generate [CycloneDX](https://cyclonedx.org/)https://cyclonedx.org/ SBOM
+A [conda](https://docs.conda.io) plugin to generate [CycloneDX](https://cyclonedx.org/) SBOM
 
 **🏗️ this roject is still in development**
 
