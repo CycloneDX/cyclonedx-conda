@@ -8,3 +8,7 @@ A [conda](https://docs.conda.io) plugin to generate [CycloneDX](https://cycloned
 
 - <https://conda.io/projects/conda/en/stable/dev-guide/plugins/index.html>
 - <https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/conda-plugins.html>
+
+## need an SBOM generator for conda python env?
+
+see also: https://github.com/CycloneDX/cyclonedx-python 
